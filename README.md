@@ -1,4 +1,4 @@
-# RedWineQuality_Prediction
+# Bharat Intern Projects
 I am adding the entire Red Wine Quality Prediction Project created in Jupyter Notebook.
 
 This repository contains three machine-learning projects focused on different aspects of predictive modeling. Each project is implemented using linear regression and logistic regression and includes Jupyter Notebook code for easy understanding and reproduction.
